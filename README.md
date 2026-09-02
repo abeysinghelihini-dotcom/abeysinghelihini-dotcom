@@ -1,6 +1,6 @@
- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lihini%20Abeysinghe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%E2%80%94%20Generative%20AI%20%C2%B7%20Backend%20%C2%B7%20Cloud&descAlignY=55&descSize=16)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lihini%20Abeysinghe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Applied%20Science%20Undergraduate%&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5722&center=false&vCenter=true&width=600&lines=Undergraduate+Building+%F0%9F%9A%80;GenAI+%C2%B7+Voice+AI+%C2%B7+RAG+%C2%B7+Cloud+Native;Always+building%2C+always+learning+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5722&center=false&vCenter=true&width=600&lines=Undergraduate+~always+learning~+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Lihini Abeysinghe</h1>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=lihini-abeysinghe&label=Profile%20views&color=0e75b6&style=flat" alt="lihini-abeysinghe" /> </p>
